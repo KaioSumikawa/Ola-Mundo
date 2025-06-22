@@ -1,25 +1,26 @@
-# Primeiro Repositório do Curso de Git e GitHub
+# First Repository from the Git and GitHub Course
 
-Este é o meu primeiro repositório versionado durante o curso de Git e GitHub Desktop.
+This is my first versioned repository during the Git and GitHub Desktop course.
 
-Criado durante uma aula ao vivo.
-
----
-
-## Sobre
-
-Este projeto foi criado para praticar:
-
-- Criação de repositórios
-- Commits e versionamento
-- Utilização do GitHub Desktop
-- Edição de arquivos pelo site do GitHub
-
-Essa linha foi adicionada diretamente pelo editor do GitHub. Muito interessante ver isso funcionando na prática.
+Created during a live class.
 
 ---
 
-## Meu GitHub
+## About
 
-Acompanhe meus projetos:  
+This project was created to practice:
+
+- Creating repositories  
+- Commits and version control  
+- Using GitHub Desktop  
+- Editing files directly on the GitHub website  
+
+This line was added directly through the GitHub editor. It’s really interesting to see it working in practice.
+
+---
+
+## My GitHub
+
+Follow my projects:  
 https://github.com/KaioSumikawa
+
